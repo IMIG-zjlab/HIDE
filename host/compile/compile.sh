@@ -1,0 +1,1 @@
+vai_c_tensorflow2 -m ./quantized_models/quantized.h5 -a /opt/vitis_ai/compiler/arch/DPUCZDX8G/KV260/arch.json -o ./compiled_model/ -n unet_compiled
